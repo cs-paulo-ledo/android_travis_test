@@ -42,5 +42,4 @@ script:
   - echo $ADB_INSTALL_TIMEOUT
   - android list target
   - Simple-Dribbble/gradlew connectedAndroidTest --stacktrace
-#  - ./gradlew assembleDebug --stacktrace
 #  - ./gradlew assembleRelease --stacktrace
